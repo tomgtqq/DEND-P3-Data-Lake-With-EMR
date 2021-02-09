@@ -1,6 +1,7 @@
 # Config files
 *.cfg
 
+<<<<<<< HEAD
 # result files
 data/
 result/
