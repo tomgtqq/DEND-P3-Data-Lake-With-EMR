@@ -50,7 +50,7 @@ spark-submit etl.py
 
 ### Authors
 
-* **Tom Ge** - *Fullstack egineer* - [github profile](https://github.com/tomgtqq)
+* **Tom Ge** - *Data egineer* - [github profile](https://github.com/tomgtqq)
 
 ### License
 
